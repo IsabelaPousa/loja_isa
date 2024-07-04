@@ -1,2 +1,2 @@
-# loja_isa
-Sistema web desenvolvido nas aulas de Programação Web do IFPR Campus Telêmaco Borba
+# INF3_A
+Sistema desenvolvido na disciplina de Programação Web I, para a turma "A".
